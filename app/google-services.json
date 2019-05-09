@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "13520451418",
+    "firebase_url": "https://agro-6ab52.firebaseio.com",
+    "project_id": "agro-6ab52",
+    "storage_bucket": "agro-6ab52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13520451418:android:386117988b7e4237",
+        "android_client_info": {
+          "package_name": "com.example.sha.agro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13520451418-j34c0bbdi9cgqutd0b0q3msuo96i7j89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sha.agro",
+            "certificate_hash": "91ba7860dad855dc4c97fb94fa1fbf777d1d2ee2"
+          }
+        },
+        {
+          "client_id": "13520451418-l9b00glbcj1efu2buundr3ko0si32k0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4-nW5zRGKrAaWjIJdCuO6wCxe41KmMYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13520451418-l9b00glbcj1efu2buundr3ko0si32k0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
