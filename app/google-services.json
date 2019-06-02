@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "13520451418-g51p9511pv9g6aunp7al86bdmefq6lsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sha.agro",
+            "certificate_hash": "ab677d2aaa0a5c5f7c092fc3e1886a683880e666"
+          }
+        },
+        {
           "client_id": "13520451418-j34c0bbdi9cgqutd0b0q3msuo96i7j89.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -33,20 +41,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
               "client_id": "13520451418-l9b00glbcj1efu2buundr3ko0si32k0k.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

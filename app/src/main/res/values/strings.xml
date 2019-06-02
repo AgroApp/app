@@ -4,12 +4,12 @@
 
 
     <string name="number">Mobile Number</string>
-    <string name="password">.......</string>
-    <string name="login">Log in</string>
-    <string name="signup">Sign up</string>
+    <string name="code">Verification Code</string>
+    <string name="sendcode">Send Verification Code</string>
+    <string name="verify">Verify</string>
+    <string name="enterno">Enter Mobile Number…</string>
+    <string name="entercode">Enter Verification Code…</string>
     <string name="changeLanguage">Change Language</string>
-    <string name="rememberme">Remember me</string>
-    <string name="forgetyourpassword">Forget your Password?</string>
     <string name="shops">Shops</string>
     <string name="agriculturenews">Agriculture news</string>
     <string name="hospital">Hospital</string>
